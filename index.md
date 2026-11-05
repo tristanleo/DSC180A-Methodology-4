@@ -1,9 +1,3 @@
-
----
-layout: default
-title: Methodology Assignment 4
----
-
 # Methodology Assignment 4 - Task 2
 
 **Name:** Tristan Leo
